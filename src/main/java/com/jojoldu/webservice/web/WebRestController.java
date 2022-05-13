@@ -1,7 +1,7 @@
 package com.jojoldu.webservice.web;
 
 import com.jojoldu.webservice.domain.dto.PostsSaveRequestDto;
-import com.jojoldu.webservice.domain.posts.PostsRepository;
+import com.jojoldu.webservice.domain.repository.PostsRepository;
 import com.jojoldu.webservice.service.PostsService;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

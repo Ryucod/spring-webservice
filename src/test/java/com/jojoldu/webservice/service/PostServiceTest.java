@@ -2,7 +2,7 @@ package com.jojoldu.webservice.service;
 
 import com.jojoldu.webservice.domain.dto.PostsSaveRequestDto;
 import com.jojoldu.webservice.domain.posts.Posts;
-import com.jojoldu.webservice.domain.posts.PostsRepository;
+import com.jojoldu.webservice.domain.repository.PostsRepository;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;
